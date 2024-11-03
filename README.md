@@ -6,5 +6,5 @@ https://user-images.githubusercontent.com/64168717/182077139-853ebd52-2bbe-427e-
 
 Blue: T-cell receptor (TCR) <br/>
 Purple: phosphorylated Linker for Activation of T-cells (LAT) <br/>
-Red: cluster-forming phosphorylated LAT <br/>
+Red: The largest LAT-cluster <br/>
 (Invisible): unphosphorylated LAT
